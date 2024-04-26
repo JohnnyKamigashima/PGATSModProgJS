@@ -1,0 +1,22 @@
+{
+  "name": "pgatsmodprogjs",
+  "version": "1.0.0",
+  "description": "Trabaldo de conclusao de modulo de programacao em JS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --watch test/**/*.test.js"
+  },
+  "keywords": [
+    "pgats",
+    "conclusao",
+    "trabalho"
+  ],
+  "author": "Johnny H. Kamigashima",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
