@@ -7,6 +7,7 @@
     "test": "test"
   },
   "scripts": {
+    "test:watch": "mocha --watch test/**/*.test.js",
     "test": "mocha --watch test/**/*.test.js"
   },
   "keywords": [
